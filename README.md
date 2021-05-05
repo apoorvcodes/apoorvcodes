@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/totucode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="totucode" height="30" width="40" /></a>
+<a href="https://twitter.com/Totucode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="totucode" height="30" width="40" /></a>
 <a href="https://instagram.com/sad_totu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sad_totu" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/VpppPEXatZhttps://discord.gg/VpppPEXatZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="https://discord.gg/VpppPEXatZhttps://discord.gg/VpppPEXatZ" height="30" width="40" /></a>
+<a href="https://discord.gg/VpppPEXatZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="VpppPEXatZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
