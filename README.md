@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tofudevelops@gmail.com**
 
-- ⚡ Fun fact **I started coding a year ago to kill my depression now it's my life**
+- ⚡ Fun fact **Vue is better than React**
 
 
 
