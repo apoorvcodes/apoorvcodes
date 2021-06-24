@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apoorv </h1>
 <h3 align="center">A passionate developer from India, currently 14 and learning Web development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tofudevelops&label=Profile%20views&color=0e75b6&style=flat" alt="tofudevelops" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvcodes&label=Profile%20views&color=0e75b6&style=flat" alt="tofudevelops" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tofudevelops" alt="tofudevelops" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorvcodes" alt="tofudevelops" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/totucode" target="blank"><img src="https://img.shields.io/twitter/follow/totucode?logo=twitter&style=for-the-badge" alt="totucode" /></a> </p>
 
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofudevelops&show_icons=true&locale=en&layout=compact" alt="tofudevelops" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofudevelops&show_icons=true&locale=en" alt="tofudevelops" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvcodes&show_icons=true&locale=en" alt="tofudevelops" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofudevelops&" alt="tofudevelops" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvcodes&" alt="tofudevelops" /></p>
