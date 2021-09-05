@@ -19,8 +19,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvcodes&" alt="tofudevelops" /></p>
 
-<h1 align="center">Hi 👋, I'm Apoorv</h1>
-<h3 align="center">A passionate developer from India, currently 15 and learning Web development</h3>
+
 
 
 
