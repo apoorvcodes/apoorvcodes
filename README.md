@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hey there! my name is Apoorv singh, a part-time student and full-time passionate developer hailing from the small city of Varanasi, India. I love building stuff that people use and forget about so that they become an essential part of their daily life, I love creating stuff with python, TypeScipt, golang, and rust, as an absolute die-heart fan of OpenSource in my meantime I love to contribute to open source software. I m great with collaborating with teams and love engaging with people with similar areas of interest!<br><br>In my free time, I love reading documentation and contributing to open sources it's my fav thing to do!<br><br>You could reach out to me anytime, I would love to help and connect! Always up for coffee, open source, AI/ML talks or anything related to tech. Catch me at my socials!
+Hey there! My name is Apoorv Singh. I am a part-time student and full-time passionate developer, hailing from the small city of Varanasi, India. I love building stuff that people use and forget about so that they become an essential part of their daily lives. I love creating stuff with Python, TypeScipt, Go, and Rust, am an absolute die-heart fan of OpenSource, and in my meantime, love to contribute to open source software. I am great with collaborating with teams and love engaging with people with similar areas of interest.<br><br>In my free time, I love reading documentation and contributing to open source. In fact, it's my fav thing to do!<br><br>You could reach out to me anytime, I would love to help and connect! I'm always up for coffee; open source, AI/ML talks; or anything related to tech. Catch me at my socials!
 
 
 
